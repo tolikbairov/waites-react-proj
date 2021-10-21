@@ -1,0 +1,9 @@
+.form-group:not(:last-child) {
+  margin-right: 50px;
+}
+form {
+  margin-bottom: 10px;
+}
+.pagination {
+  justify-content: center;
+}
