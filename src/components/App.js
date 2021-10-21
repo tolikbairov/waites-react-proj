@@ -89,6 +89,7 @@ export default function App() {
                 id="exampleSelect"
                 onChange={(e) => {
                   setTodosPerPage(e.currentTarget.value);
+                  setCurrentPage(1);
                 }}
               >
                 <option>10</option>
