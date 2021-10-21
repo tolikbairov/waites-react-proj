@@ -1,0 +1,2 @@
+(this["webpackJsonpwaites-react-proj"]=this["webpackJsonpwaites-react-proj"]||[]).push([[0],{10:function(t,e,r){},11:function(t,e,r){"use strict";r.r(e);var n=r(3),c=r.n(n),o=(r(8),r(0));var s=function(){return Object(o.jsx)(o.Fragment,{})};r(10);c.a.render(Object(o.jsx)(s,{}),document.querySelector("#root"))},8:function(t,e,r){}},[[11,1,2]]]);
+//# sourceMappingURL=main.268b3577.chunk.js.map
