@@ -1,7 +1,7 @@
-import { Redirect, useParams } from "react-router-dom";
+import { Redirect } from "react-router-dom";
 
 export default function UserDetailsView(props) {
-  const { userId } = useParams();
+  // const { userId } = useParams();
   if (!props.location.propsSearch) return <Redirect to="/tabledata" />;
   const { title } = props.location.propsSearch;
   console.log(props.location.propsSearch.title); // Наши переданные данные
