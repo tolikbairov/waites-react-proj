@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { Link, useRouteMatch } from "react-router-dom";
 
 import { Table, Button, ButtonGroup } from "reactstrap";
-import DeleteModal from "../DeleteModal/DeleteModal";
+import DeleteModal from "../deleteModal/DeleteModal";
 import EditModal from "../EditModal/EditModal";
 function TableComponent(props) {
   const todos = props.todos;
